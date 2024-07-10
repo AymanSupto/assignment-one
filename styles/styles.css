@@ -240,12 +240,12 @@ body {
     margin: 40px 0px;
 }
 
-/* footer section */
+/* main four section  */
 
 .main-four {
-    border: 2px solid red;
     margin: 74px 152px 88px 148px;
     padding: 64px 48px 64px 48px;
+    border-radius: 16px;
     background-image: url(../assets/handshake.jpg);
     background-size: cover;
 }
@@ -281,6 +281,13 @@ body {
     background: rgb(255, 255, 255);
     margin: 0px 16px;
     padding: 17px 20px 17px 20px;
+}
+
+.text-button {
+    display: flex;
+    margin-left: 420px;
+    margin-top: 70px;
+
 }
 
 /* footer part  */
