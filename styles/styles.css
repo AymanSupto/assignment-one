@@ -169,3 +169,74 @@ body {
     opacity: 0.7;
     margin: 24px 0px;
 }
+
+/* main section three */
+
+.main-three {
+    margin: 74px 152px 88px 148px;
+    border: 2px solid red;
+}
+
+.cards {
+    display: flex
+}
+
+.html {
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    margin: 0px 24px;
+    padding: 40px;
+}
+
+.css {
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    margin: 0px 24px;
+    padding: 40px;
+}
+
+.js {
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    margin: 0px 24px;
+    padding: 40px
+}
+
+.cards .heading {
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin: 24px 0px;
+}
+
+.cards .paragraph {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 24px 0px;
+}
+
+.cards .link {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    margin: 40px 0px;
+}
+
+.main-three .text-part h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin: 24px 0px;
+}
+
+.main-three .text-part p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    text-align: center;
+    margin: 40px 0px;
+}
