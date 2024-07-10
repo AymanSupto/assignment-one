@@ -174,7 +174,6 @@ body {
 
 .main-three {
     margin: 74px 152px 88px 148px;
-    border: 2px solid red;
 }
 
 .cards {
@@ -239,4 +238,68 @@ body {
     opacity: 0.7;
     text-align: center;
     margin: 40px 0px;
+}
+
+/* footer section */
+
+.main-four {
+    border: 2px solid red;
+    margin: 74px 152px 88px 148px;
+    padding: 64px 48px 64px 48px;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+}
+
+.main-four h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    margin: 16px 0px;
+    text-align: center;
+}
+
+.main-four p {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 16px 0px;
+    text-align: center;
+}
+
+.main-four textarea {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+}
+
+.main-four button {
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    margin: 0px 16px;
+    padding: 17px 20px 17px 20px;
+}
+
+/* footer part  */
+
+.footer {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
 }
