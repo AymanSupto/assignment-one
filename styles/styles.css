@@ -128,11 +128,44 @@ body {
     text-align: center;
 }
 
-.content-three .margin{
+.content-three .margin {
     margin-left: 50px;
 }
 
-.main-content .margin-one{
+.main-content .margin-one {
     margin-top: 30px;
 }
 
+/* main section two */
+
+.main-two {
+    margin: 74px 152px 88px 148px;
+}
+
+.main-two .video {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin: 48px 0px;
+    padding: 32px;
+}
+
+.main-two .jhankar {
+    border-radius: 16px;
+}
+
+.main-two h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.main-two p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0.7;
+    margin: 24px 0px;
+}
